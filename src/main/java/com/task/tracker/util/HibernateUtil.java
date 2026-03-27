@@ -2,7 +2,7 @@ package com.task.tracker.util;
 
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
-//Hibernate util
+
 public class HibernateUtil {
     private static final SessionFactory sessionFactory;
    static {
